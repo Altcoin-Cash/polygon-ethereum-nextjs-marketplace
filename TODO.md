@@ -10,3 +10,4 @@ To do:
    - Only ability to choose between your NFTs
 
 4. Add WATT as payment option
+5. Add possibility to list your components 
