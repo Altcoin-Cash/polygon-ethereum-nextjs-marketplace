@@ -7,5 +7,6 @@ To do:
    - Metadata update dynamic so you can see the specifications of your build
    - Ability to choose colors
    - Merge metadata, graphics and color choices when you mint, and burn the selected components
+   - Only ability to choose between your NFTs
 
 4. Add WATT as payment option
