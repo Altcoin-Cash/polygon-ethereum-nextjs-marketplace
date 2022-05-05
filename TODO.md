@@ -2,4 +2,10 @@ To do:
 
 1. Add support for ERC1155 to marketplace
 2. Add functions for select and burn ERC1155 component NFTs, merge their metadata and graphics to mint unique NFTs
-3. Add WATT as payment option
+   - Selector display your Mining Game components
+   - You drag and drop components to the PC or mining rig
+   - Metadata update dynamic so you can see the specifications of your build
+   - Ability to choose colors
+   - Merge metadata, graphics and color choices when you mint, and burn the selected components
+
+4. Add WATT as payment option
