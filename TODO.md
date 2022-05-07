@@ -11,3 +11,4 @@ To do:
 
 4. Add WATT as payment option
 5. Add possibility to list your components 
+6. Switch mint standard to ERC721A https://github.com/chiru-labs/ERC721A
